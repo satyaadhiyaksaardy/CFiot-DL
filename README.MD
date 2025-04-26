@@ -65,7 +65,7 @@ This repository is part of a broader project composed of:
 
 - **Arduino Firmware** [here](https://github.com/satyaadhiyaksaardy/CFiot-arduino)
 - **Model Training** (this repository)
-- **AWS Lambda Functions** [here]()
+- **AWS Lambda Functions** [here](https://github.com/satyaadhiyaksaardy/CFiot-lambda)
 
 ---
 
